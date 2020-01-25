@@ -1,0 +1,2162 @@
+[
+	{
+		"region": "Kachin",
+		"capital_city": "Myitkyina",
+		"district": "Bhamo",
+		"township": "Bhamo"
+	},
+	{
+		"region": "Kachin",
+		"capital_city": "Myitkyina",
+		"district": "Bhamo",
+		"township": "Mansi"
+	},
+	{
+		"region": "Kachin",
+		"capital_city": "Myitkyina",
+		"district": "Bhamo",
+		"township": "Momauk"
+	},
+	{
+		"region": "Kachin",
+		"capital_city": "Myitkyina",
+		"district": "Bhamo",
+		"township": "Shwegu"
+	},
+	{
+		"region": "Kachin",
+		"capital_city": "Myitkyina",
+		"district": "Mohnyin",
+		"township": "Hpakant"
+	},
+	{
+		"region": "Kachin",
+		"capital_city": "Myitkyina",
+		"district": "Mohnyin",
+		"township": "Mogaung"
+	},
+	{
+		"region": "Kachin",
+		"capital_city": "Myitkyina",
+		"district": "Mohnyin",
+		"township": "Mohnyin"
+	},
+	{
+		"region": "Kachin",
+		"capital_city": "Myitkyina",
+		"district": "Myitkyina",
+		"township": "Chipwi"
+	},
+	{
+		"region": "Kachin",
+		"capital_city": "Myitkyina",
+		"district": "Myitkyina",
+		"township": "Injangyang"
+	},
+	{
+		"region": "Kachin",
+		"capital_city": "Myitkyina",
+		"district": "Myitkyina",
+		"township": "Myitkyina"
+	},
+	{
+		"region": "Kachin",
+		"capital_city": "Myitkyina",
+		"district": "Myitkyina",
+		"township": "Tanai"
+	},
+	{
+		"region": "Kachin",
+		"capital_city": "Myitkyina",
+		"district": "Myitkyina",
+		"township": "Tsawlaw"
+	},
+	{
+		"region": "Kachin",
+		"capital_city": "Myitkyina",
+		"district": "Myitkyina",
+		"township": "Waingmaw"
+	},
+	{
+		"region": "Kachin",
+		"capital_city": "Myitkyina",
+		"district": "Puta-O",
+		"township": "Khaunglanhpu"
+	},
+	{
+		"region": "Kachin",
+		"capital_city": "Myitkyina",
+		"district": "Puta-O",
+		"township": "Machanbaw"
+	},
+	{
+		"region": "Kachin",
+		"capital_city": "Myitkyina",
+		"district": "Puta-O",
+		"township": "Nawngmun"
+	},
+	{
+		"region": "Kachin",
+		"capital_city": "Myitkyina",
+		"district": "Puta-O",
+		"township": "Puta-O"
+	},
+	{
+		"region": "Kachin",
+		"capital_city": "Myitkyina",
+		"district": "Puta-O",
+		"township": "Sumprabum"
+	},
+	{
+		"region": "Kayah",
+		"capital_city": "Loikaw",
+		"district": "Bawlake",
+		"township": "Bawlake"
+	},
+	{
+		"region": "Kayah",
+		"capital_city": "Loikaw",
+		"district": "Bawlake",
+		"township": "Hpasawng"
+	},
+	{
+		"region": "Kayah",
+		"capital_city": "Loikaw",
+		"district": "Bawlake",
+		"township": "Mese"
+	},
+	{
+		"region": "Kayah",
+		"capital_city": "Loikaw",
+		"district": "Loikaw",
+		"township": "Demoso"
+	},
+	{
+		"region": "Kayah",
+		"capital_city": "Loikaw",
+		"district": "Loikaw",
+		"township": "Hpruso"
+	},
+	{
+		"region": "Kayah",
+		"capital_city": "Loikaw",
+		"district": "Loikaw",
+		"township": "Loikaw"
+	},
+	{
+		"region": "Kayah",
+		"capital_city": "Loikaw",
+		"district": "Loikaw",
+		"township": "Shadaw"
+	},
+	{
+		"region": "Kayin",
+		"capital_city": "Hpa-An",
+		"district": "Hpa-An",
+		"township": "Hlaingbwe"
+	},
+	{
+		"region": "Kayin",
+		"capital_city": "Hpa-An",
+		"district": "Hpa-An",
+		"township": "Hpa-An"
+	},
+	{
+		"region": "Kayin",
+		"capital_city": "Hpa-An",
+		"district": "Hpa-An",
+		"township": "Thandaunggyi"
+	},
+	{
+		"region": "Kayin",
+		"capital_city": "Hpa-An",
+		"district": "Hpapun",
+		"township": "Hpapun"
+	},
+	{
+		"region": "Kayin",
+		"capital_city": "Hpa-An",
+		"district": "Kawkareik",
+		"township": "Kawkareik"
+	},
+	{
+		"region": "Kayin",
+		"capital_city": "Hpa-An",
+		"district": "Kawkareik",
+		"township": "Kyainseikgyi"
+	},
+	{
+		"region": "Kayin",
+		"capital_city": "Hpa-An",
+		"district": "Myawaddy",
+		"township": "Myawaddy"
+	},
+	{
+		"region": "Chin",
+		"capital_city": "Hakha",
+		"district": "Falam",
+		"township": "Falam"
+	},
+	{
+		"region": "Chin",
+		"capital_city": "Hakha",
+		"district": "Falam",
+		"township": "Tedim"
+	},
+	{
+		"region": "Chin",
+		"capital_city": "Hakha",
+		"district": "Falam",
+		"township": "Tonzang"
+	},
+	{
+		"region": "Chin",
+		"capital_city": "Hakha",
+		"district": "Hakha",
+		"township": "Hakha"
+	},
+	{
+		"region": "Chin",
+		"capital_city": "Hakha",
+		"district": "Hakha",
+		"township": "Thantlang"
+	},
+	{
+		"region": "Chin",
+		"capital_city": "Hakha",
+		"district": "Mindat",
+		"township": "Kanpetlet"
+	},
+	{
+		"region": "Chin",
+		"capital_city": "Hakha",
+		"district": "Mindat",
+		"township": "Matupi"
+	},
+	{
+		"region": "Chin",
+		"capital_city": "Hakha",
+		"district": "Mindat",
+		"township": "Mindat"
+	},
+	{
+		"region": "Chin",
+		"capital_city": "Hakha",
+		"district": "Mindat",
+		"township": "Paletwa"
+	},
+	{
+		"region": "Sagaing",
+		"capital_city": "Sagaing",
+		"district": "Hkamti",
+		"township": "Hkamti"
+	},
+	{
+		"region": "Sagaing",
+		"capital_city": "Sagaing",
+		"district": "Hkamti",
+		"township": "Homalin"
+	},
+	{
+		"region": "Sagaing",
+		"capital_city": "Sagaing",
+		"district": "Hkamti",
+		"township": "Lahe"
+	},
+	{
+		"region": "Sagaing",
+		"capital_city": "Sagaing",
+		"district": "Hkamti",
+		"township": "Lay Shi"
+	},
+	{
+		"region": "Sagaing",
+		"capital_city": "Sagaing",
+		"district": "Hkamti",
+		"township": "Nanyun"
+	},
+	{
+		"region": "Sagaing",
+		"capital_city": "Sagaing",
+		"district": "Kale",
+		"township": "Kale"
+	},
+	{
+		"region": "Sagaing",
+		"capital_city": "Sagaing",
+		"district": "Kale",
+		"township": "Kalewa"
+	},
+	{
+		"region": "Sagaing",
+		"capital_city": "Sagaing",
+		"district": "Kale",
+		"township": "Mingin"
+	},
+	{
+		"region": "Sagaing",
+		"capital_city": "Sagaing",
+		"district": "Kanbalu",
+		"township": "Kanbalu"
+	},
+	{
+		"region": "Sagaing",
+		"capital_city": "Sagaing",
+		"district": "Kanbalu",
+		"township": "Kyunhla"
+	},
+	{
+		"region": "Sagaing",
+		"capital_city": "Sagaing",
+		"district": "Katha",
+		"township": "Banmauk"
+	},
+	{
+		"region": "Sagaing",
+		"capital_city": "Sagaing",
+		"district": "Katha",
+		"township": "Indaw"
+	},
+	{
+		"region": "Sagaing",
+		"capital_city": "Sagaing",
+		"district": "Katha",
+		"township": "Katha"
+	},
+	{
+		"region": "Sagaing",
+		"capital_city": "Sagaing",
+		"district": "Katha",
+		"township": "Kawlin"
+	},
+	{
+		"region": "Sagaing",
+		"capital_city": "Sagaing",
+		"district": "Katha",
+		"township": "Pinlebu"
+	},
+	{
+		"region": "Sagaing",
+		"capital_city": "Sagaing",
+		"district": "Katha",
+		"township": "Tigyaing"
+	},
+	{
+		"region": "Sagaing",
+		"capital_city": "Sagaing",
+		"district": "Katha",
+		"township": "Wuntho"
+	},
+	{
+		"region": "Sagaing",
+		"capital_city": "Sagaing",
+		"district": "Mawlaik",
+		"township": "Mawlaik"
+	},
+	{
+		"region": "Sagaing",
+		"capital_city": "Sagaing",
+		"district": "Mawlaik",
+		"township": "Paungbyin"
+	},
+	{
+		"region": "Sagaing",
+		"capital_city": "Sagaing",
+		"district": "Monywa",
+		"township": "Ayadaw"
+	},
+	{
+		"region": "Sagaing",
+		"capital_city": "Sagaing",
+		"district": "Monywa",
+		"township": "Budalin"
+	},
+	{
+		"region": "Sagaing",
+		"capital_city": "Sagaing",
+		"district": "Monywa",
+		"township": "Chaung-U"
+	},
+	{
+		"region": "Sagaing",
+		"capital_city": "Sagaing",
+		"district": "Monywa",
+		"township": "Monywa"
+	},
+	{
+		"region": "Sagaing",
+		"capital_city": "Sagaing",
+		"district": "Sagaing",
+		"township": "Myaung"
+	},
+	{
+		"region": "Sagaing",
+		"capital_city": "Sagaing",
+		"district": "Sagaing",
+		"township": "Myinmu"
+	},
+	{
+		"region": "Sagaing",
+		"capital_city": "Sagaing",
+		"district": "Sagaing",
+		"township": "Sagaing"
+	},
+	{
+		"region": "Sagaing",
+		"capital_city": "Sagaing",
+		"district": "Shwebo",
+		"township": "Khin-U"
+	},
+	{
+		"region": "Sagaing",
+		"capital_city": "Sagaing",
+		"district": "Shwebo",
+		"township": "Shwebo"
+	},
+	{
+		"region": "Sagaing",
+		"capital_city": "Sagaing",
+		"district": "Shwebo",
+		"township": "Tabayin"
+	},
+	{
+		"region": "Sagaing",
+		"capital_city": "Sagaing",
+		"district": "Shwebo",
+		"township": "Taze"
+	},
+	{
+		"region": "Sagaing",
+		"capital_city": "Sagaing",
+		"district": "Shwebo",
+		"township": "Wetlet"
+	},
+	{
+		"region": "Sagaing",
+		"capital_city": "Sagaing",
+		"district": "Shwebo",
+		"township": "Ye-U"
+	},
+	{
+		"region": "Sagaing",
+		"capital_city": "Sagaing",
+		"district": "Tamu",
+		"township": "Tamu"
+	},
+	{
+		"region": "Sagaing",
+		"capital_city": "Sagaing",
+		"district": "Yinmarbin",
+		"township": "Kani"
+	},
+	{
+		"region": "Sagaing",
+		"capital_city": "Sagaing",
+		"district": "Yinmarbin",
+		"township": "Pale"
+	},
+	{
+		"region": "Sagaing",
+		"capital_city": "Sagaing",
+		"district": "Yinmarbin",
+		"township": "Salingyi"
+	},
+	{
+		"region": "Sagaing",
+		"capital_city": "Sagaing",
+		"district": "Yinmarbin",
+		"township": "Yinmarbin"
+	},
+	{
+		"region": "Tanintharyi",
+		"capital_city": "Dawei",
+		"district": "Kawthoung",
+		"township": "Bokpyin"
+	},
+	{
+		"region": "Tanintharyi",
+		"capital_city": "Dawei",
+		"district": "Dawei",
+		"township": "Dawei"
+	},
+	{
+		"region": "Tanintharyi",
+		"capital_city": "Dawei",
+		"district": "Kawthoung",
+		"township": "Kawthoung"
+	},
+	{
+		"region": "Tanintharyi",
+		"capital_city": "Dawei",
+		"district": "Myeik",
+		"township": "Kyunsu"
+	},
+	{
+		"region": "Tanintharyi",
+		"capital_city": "Dawei",
+		"district": "Dawei",
+		"township": "Launglon"
+	},
+	{
+		"region": "Tanintharyi",
+		"capital_city": "Dawei",
+		"district": "Myeik",
+		"township": "Myeik"
+	},
+	{
+		"region": "Tanintharyi",
+		"capital_city": "Dawei",
+		"district": "Myeik",
+		"township": "Palaw"
+	},
+	{
+		"region": "Tanintharyi",
+		"capital_city": "Dawei",
+		"district": "Myeik",
+		"township": "Tanintharyi"
+	},
+	{
+		"region": "Tanintharyi",
+		"capital_city": "Dawei",
+		"district": "Dawei",
+		"township": "Thayetchaung"
+	},
+	{
+		"region": "Tanintharyi",
+		"capital_city": "Dawei",
+		"district": "Dawei",
+		"township": "Yebyu"
+	},
+	{
+		"region": "Bago",
+		"capital_city": "Bago",
+		"district": "Bago",
+		"township": "Bago"
+	},
+	{
+		"region": "Bago",
+		"capital_city": "Bago",
+		"district": "Bago",
+		"township": "Daik-U"
+	},
+	{
+		"region": "Bago",
+		"capital_city": "Bago",
+		"district": "Bago",
+		"township": "Kawa"
+	},
+	{
+		"region": "Bago",
+		"capital_city": "Bago",
+		"district": "Bago",
+		"township": "Kyauktaga"
+	},
+	{
+		"region": "Bago",
+		"capital_city": "Bago",
+		"district": "Bago",
+		"township": "Nyaunglebin"
+	},
+	{
+		"region": "Bago",
+		"capital_city": "Bago",
+		"district": "Bago",
+		"township": "Shwegyin"
+	},
+	{
+		"region": "Bago",
+		"capital_city": "Bago",
+		"district": "Bago",
+		"township": "Thanatpin"
+	},
+	{
+		"region": "Bago",
+		"capital_city": "Bago",
+		"district": "Bago",
+		"township": "Waw"
+	},
+	{
+		"region": "Bago",
+		"capital_city": "Bago",
+		"district": "Pyay",
+		"township": "Padaung"
+	},
+	{
+		"region": "Bago",
+		"capital_city": "Bago",
+		"district": "Pyay",
+		"township": "Paukkhaung"
+	},
+	{
+		"region": "Bago",
+		"capital_city": "Bago",
+		"district": "Pyay",
+		"township": "Paungde"
+	},
+	{
+		"region": "Bago",
+		"capital_city": "Bago",
+		"district": "Pyay",
+		"township": "Pyay"
+	},
+	{
+		"region": "Bago",
+		"capital_city": "Bago",
+		"district": "Pyay",
+		"township": "Shwedaung"
+	},
+	{
+		"region": "Bago",
+		"capital_city": "Bago",
+		"district": "Pyay",
+		"township": "Thegon"
+	},
+	{
+		"region": "Bago",
+		"capital_city": "Bago",
+		"district": "Taungoo",
+		"township": "Htantabin"
+	},
+	{
+		"region": "Bago",
+		"capital_city": "Bago",
+		"district": "Taungoo",
+		"township": "Kyaukkyi"
+	},
+	{
+		"region": "Bago",
+		"capital_city": "Bago",
+		"district": "Taungoo",
+		"township": "Oktwin"
+	},
+	{
+		"region": "Bago",
+		"capital_city": "Bago",
+		"district": "Taungoo",
+		"township": "Phyu"
+	},
+	{
+		"region": "Bago",
+		"capital_city": "Bago",
+		"district": "Taungoo",
+		"township": "Taungoo"
+	},
+	{
+		"region": "Bago",
+		"capital_city": "Bago",
+		"district": "Taungoo",
+		"township": "Yedashe"
+	},
+	{
+		"region": "Bago",
+		"capital_city": "Bago",
+		"district": "Thayarwady",
+		"township": "Gyobingauk"
+	},
+	{
+		"region": "Bago",
+		"capital_city": "Bago",
+		"district": "Thayarwady",
+		"township": "Letpadan"
+	},
+	{
+		"region": "Bago",
+		"capital_city": "Bago",
+		"district": "Thayarwady",
+		"township": "Minhla"
+	},
+	{
+		"region": "Bago",
+		"capital_city": "Bago",
+		"district": "Thayarwady",
+		"township": "Monyo"
+	},
+	{
+		"region": "Bago",
+		"capital_city": "Bago",
+		"district": "Thayarwady",
+		"township": "Nattalin"
+	},
+	{
+		"region": "Bago",
+		"capital_city": "Bago",
+		"district": "Thayarwady",
+		"township": "Okpho"
+	},
+	{
+		"region": "Bago",
+		"capital_city": "Bago",
+		"district": "Thayarwady",
+		"township": "Thayarwady"
+	},
+	{
+		"region": "Bago",
+		"capital_city": "Bago",
+		"district": "Thayarwady",
+		"township": "Zigon"
+	},
+	{
+		"region": "Magway",
+		"capital_city": "Magway",
+		"district": "Gangaw",
+		"township": "Gangaw"
+	},
+	{
+		"region": "Magway",
+		"capital_city": "Magway",
+		"district": "Gangaw",
+		"township": "Saw"
+	},
+	{
+		"region": "Magway",
+		"capital_city": "Magway",
+		"district": "Gangaw",
+		"township": "Tilin"
+	},
+	{
+		"region": "Magway",
+		"capital_city": "Magway",
+		"district": "Magway",
+		"township": "Chauk"
+	},
+	{
+		"region": "Magway",
+		"capital_city": "Magway",
+		"district": "Magway",
+		"township": "Magway"
+	},
+	{
+		"region": "Magway",
+		"capital_city": "Magway",
+		"district": "Magway",
+		"township": "Myothit"
+	},
+	{
+		"region": "Magway",
+		"capital_city": "Magway",
+		"district": "Magway",
+		"township": "Natmauk"
+	},
+	{
+		"region": "Magway",
+		"capital_city": "Magway",
+		"district": "Magway",
+		"township": "Taungdwingyi"
+	},
+	{
+		"region": "Magway",
+		"capital_city": "Magway",
+		"district": "Magway",
+		"township": "Yenangyaung"
+	},
+	{
+		"region": "Magway",
+		"capital_city": "Magway",
+		"district": "Minbu",
+		"township": "Minbu"
+	},
+	{
+		"region": "Magway",
+		"capital_city": "Magway",
+		"district": "Minbu",
+		"township": "Ngape"
+	},
+	{
+		"region": "Magway",
+		"capital_city": "Magway",
+		"district": "Minbu",
+		"township": "Pwintbyu"
+	},
+	{
+		"region": "Magway",
+		"capital_city": "Magway",
+		"district": "Minbu",
+		"township": "Salin"
+	},
+	{
+		"region": "Magway",
+		"capital_city": "Magway",
+		"district": "Minbu",
+		"township": "Sidoktaya"
+	},
+	{
+		"region": "Magway",
+		"capital_city": "Magway",
+		"district": "Pakokku",
+		"township": "Myaing"
+	},
+	{
+		"region": "Magway",
+		"capital_city": "Magway",
+		"district": "Pakokku",
+		"township": "Pakokku"
+	},
+	{
+		"region": "Magway",
+		"capital_city": "Magway",
+		"district": "Pakokku",
+		"township": "Pauk"
+	},
+	{
+		"region": "Magway",
+		"capital_city": "Magway",
+		"district": "Pakokku",
+		"township": "Seikphyu"
+	},
+	{
+		"region": "Magway",
+		"capital_city": "Magway",
+		"district": "Pakokku",
+		"township": "Yesagyo"
+	},
+	{
+		"region": "Magway",
+		"capital_city": "Magway",
+		"district": "Thayet",
+		"township": "Aunglan"
+	},
+	{
+		"region": "Magway",
+		"capital_city": "Magway",
+		"district": "Thayet",
+		"township": "Kamma"
+	},
+	{
+		"region": "Magway",
+		"capital_city": "Magway",
+		"district": "Thayet",
+		"township": "Mindon"
+	},
+	{
+		"region": "Magway",
+		"capital_city": "Magway",
+		"district": "Thayet",
+		"township": "Minhla"
+	},
+	{
+		"region": "Magway",
+		"capital_city": "Magway",
+		"district": "Thayet",
+		"township": "Sinbaungwe"
+	},
+	{
+		"region": "Magway",
+		"capital_city": "Magway",
+		"district": "Thayet",
+		"township": "Thayet"
+	},
+	{
+		"region": "Mandalay",
+		"capital_city": "Mandalay",
+		"district": "Mandalay",
+		"township": "Amarapura"
+	},
+	{
+		"region": "Mandalay",
+		"capital_city": "Mandalay",
+		"district": "Mandalay",
+		"township": "Aungmyaythazan"
+	},
+	{
+		"region": "Mandalay",
+		"capital_city": "Mandalay",
+		"district": "Mandalay",
+		"township": "Chanmyathazi"
+	},
+	{
+		"region": "Mandalay",
+		"capital_city": "Mandalay",
+		"district": "Mandalay",
+		"township": "Mahaaungmyay"
+	},
+	{
+		"region": "Mandalay",
+		"capital_city": "Mandalay",
+		"district": "Mandalay",
+		"township": "Chanayethazan"
+	},
+	{
+		"region": "Mandalay",
+		"capital_city": "Mandalay",
+		"district": "Nyaung-U",
+		"township": "Kyaukpadaung"
+	},
+	{
+		"region": "Mandalay",
+		"capital_city": "Mandalay",
+		"district": "Kyaukse",
+		"township": "Kyaukse"
+	},
+	{
+		"region": "Mandalay",
+		"capital_city": "Mandalay",
+		"district": "Pyinoolwin",
+		"township": "Madaya"
+	},
+	{
+		"region": "Mandalay",
+		"capital_city": "Mandalay",
+		"district": "Meiktila",
+		"township": "Mahlaing"
+	},
+	{
+		"region": "Mandalay",
+		"capital_city": "Mandalay",
+		"district": "Meiktila",
+		"township": "Meiktila"
+	},
+	{
+		"region": "Mandalay",
+		"capital_city": "Mandalay",
+		"district": "Pyinoolwin",
+		"township": "Mogoke"
+	},
+	{
+		"region": "Mandalay",
+		"capital_city": "Mandalay",
+		"district": "Myingyan",
+		"township": "Myingyan"
+	},
+	{
+		"region": "Mandalay",
+		"capital_city": "Mandalay",
+		"district": "Kyaukse",
+		"township": "Myittha"
+	},
+	{
+		"region": "Mandalay",
+		"capital_city": "Mandalay",
+		"district": "Myingyan",
+		"township": "Natogyi"
+	},
+	{
+		"region": "Mandalay",
+		"capital_city": "Mandalay",
+		"district": "Myingyan",
+		"township": "Ngazun"
+	},
+	{
+		"region": "Mandalay",
+		"capital_city": "Mandalay",
+		"district": "Nyaung-U",
+		"township": "Nyaung-U"
+	},
+	{
+		"region": "Mandalay",
+		"capital_city": "Mandalay",
+		"district": "Mandalay",
+		"township": "Patheingyi"
+	},
+	{
+		"region": "Mandalay",
+		"capital_city": "Mandalay",
+		"district": "Yamethin",
+		"township": "Pyawbwe"
+	},
+	{
+		"region": "Mandalay",
+		"capital_city": "Mandalay",
+		"district": "Mandalay",
+		"township": "Pyigyitagon"
+	},
+	{
+		"region": "Mandalay",
+		"capital_city": "Mandalay",
+		"district": "Pyinoolwin",
+		"township": "Pyinoolwin"
+	},
+	{
+		"region": "Mandalay",
+		"capital_city": "Mandalay",
+		"district": "Pyinoolwin",
+		"township": "Singu"
+	},
+	{
+		"region": "Mandalay",
+		"capital_city": "Mandalay",
+		"district": "Kyaukse",
+		"township": "Sintgaing"
+	},
+	{
+		"region": "Mandalay",
+		"capital_city": "Mandalay",
+		"district": "Kyaukse",
+		"township": "Tada-U"
+	},
+	{
+		"region": "Mandalay",
+		"capital_city": "Mandalay",
+		"district": "Myingyan",
+		"township": "Taungtha"
+	},
+	{
+		"region": "Mandalay",
+		"capital_city": "Mandalay",
+		"district": "Pyinoolwin",
+		"township": "Thabeikkyin"
+	},
+	{
+		"region": "Mandalay",
+		"capital_city": "Mandalay",
+		"district": "Meiktila",
+		"township": "Thazi"
+	},
+	{
+		"region": "Mandalay",
+		"capital_city": "Mandalay",
+		"district": "Meiktila",
+		"township": "Wundwin"
+	},
+	{
+		"region": "Mandalay",
+		"capital_city": "Mandalay",
+		"district": "Yamethin",
+		"township": "Yamethin"
+	},
+	{
+		"region": "Naypyidaw",
+		"capital_city": "Naypyidaw",
+		"district": "Det Khi Na",
+		"township": "Det Khi Na Thi Ri"
+	},
+	{
+		"region": "Naypyidaw",
+		"capital_city": "Naypyidaw",
+		"district": "Det Khi Na",
+		"township": "Lewe"
+	},
+	{
+		"region": "Naypyidaw",
+		"capital_city": "Naypyidaw",
+		"district": "Det Khi Na",
+		"township": "Pyinmana"
+	},
+	{
+		"region": "Naypyidaw",
+		"capital_city": "Naypyidaw",
+		"district": "Det Khi Na",
+		"township": "Za Bu Thi Ri"
+	},
+	{
+		"region": "Naypyidaw",
+		"capital_city": "Naypyidaw",
+		"district": "Oke Ta Ra",
+		"township": "Oke Ta Ra Thi Ri"
+	},
+	{
+		"region": "Naypyidaw",
+		"capital_city": "Naypyidaw",
+		"district": "Oke Ta Ra",
+		"township": "Poke Ba Thi Ri"
+	},
+	{
+		"region": "Naypyidaw",
+		"capital_city": "Naypyidaw",
+		"district": "Oke Ta Ra",
+		"township": "Tatkon"
+	},
+	{
+		"region": "Naypyidaw",
+		"capital_city": "Naypyidaw",
+		"district": "Oke Ta Ra",
+		"township": "Zay Yar Thi Ri"
+	},
+	{
+		"region": "Mon",
+		"capital_city": "Mawlamyine",
+		"district": "Mawlamyine",
+		"township": "Chaungzon "
+	},
+	{
+		"region": "Mon",
+		"capital_city": "Mawlamyine",
+		"district": "Mawlamyine",
+		"township": "Kyaik Mayaw"
+	},
+	{
+		"region": "Mon",
+		"capital_city": "Mawlamyine",
+		"district": "Mawlamyine",
+		"township": "Mawlamyine"
+	},
+	{
+		"region": "Mon",
+		"capital_city": "Mawlamyine",
+		"district": "Mawlamyine",
+		"township": "Mudon"
+	},
+	{
+		"region": "Mon",
+		"capital_city": "Mawlamyine",
+		"district": "Mawlamyine",
+		"township": "Thanbyuzayat"
+	},
+	{
+		"region": "Mon",
+		"capital_city": "Mawlamyine",
+		"district": "Mawlamyine",
+		"township": "Ye"
+	},
+	{
+		"region": "Mon",
+		"capital_city": "Mawlamyine",
+		"district": "Thaton",
+		"township": "Bee Lin"
+	},
+	{
+		"region": "Mon",
+		"capital_city": "Mawlamyine",
+		"district": "Thaton",
+		"township": "Kyaik Hto"
+	},
+	{
+		"region": "Mon",
+		"capital_city": "Mawlamyine",
+		"district": "Thaton",
+		"township": "Paung"
+	},
+	{
+		"region": "Mon",
+		"capital_city": "Mawlamyine",
+		"district": "Thaton",
+		"township": "Thaton "
+	},
+	{
+		"region": "Ayeyarwady",
+		"capital_city": "Pathein",
+		"district": "Bogale",
+		"township": "Bogale"
+	},
+	{
+		"region": "Ayeyarwady",
+		"capital_city": "Pathein",
+		"district": "Danubyu",
+		"township": "Danubyu"
+	},
+	{
+		"region": "Ayeyarwady",
+		"capital_city": "Pathein",
+		"district": "Dedaye",
+		"township": "Dedaye"
+	},
+	{
+		"region": "Ayeyarwady",
+		"capital_city": "Pathein",
+		"district": "Myaungmya",
+		"township": "Einme"
+	},
+	{
+		"region": "Ayeyarwady",
+		"capital_city": "Pathein",
+		"district": "Hinthada",
+		"township": "Hinthada"
+	},
+	{
+		"region": "Ayeyarwady",
+		"capital_city": "Pathein",
+		"district": "Hinthada",
+		"township": "Htoogyi "
+	},
+	{
+		"region": "Ayeyarwady",
+		"capital_city": "Pathein",
+		"district": "Hinthada",
+		"township": "Ingapu"
+	},
+	{
+		"region": "Ayeyarwady",
+		"capital_city": "Pathein",
+		"district": "Hinthada",
+		"township": "Batye"
+	},
+	{
+		"region": "Ayeyarwady",
+		"capital_city": "Pathein",
+		"district": "Hinthada",
+		"township": "Kyangin"
+	},
+	{
+		"region": "Ayeyarwady",
+		"capital_city": "Pathein",
+		"district": "Hinthada",
+		"township": "Lemyethna"
+	},
+	{
+		"region": "Ayeyarwady",
+		"capital_city": "Pathein",
+		"district": "Hinthada",
+		"township": "Myanaung"
+	},
+	{
+		"region": "Ayeyarwady",
+		"capital_city": "Pathein",
+		"district": "Hinthada",
+		"township": "Zalun"
+	},
+	{
+		"region": "Ayeyarwady",
+		"capital_city": "Pathein",
+		"district": "Labutta",
+		"township": "Labutta "
+	},
+	{
+		"region": "Ayeyarwady",
+		"capital_city": "Pathein",
+		"district": "Labutta",
+		"township": "Lubutta (3) Mile"
+	},
+	{
+		"region": "Ayeyarwady",
+		"capital_city": "Pathein",
+		"district": "Labutta",
+		"township": "Pyinsalu "
+	},
+	{
+		"region": "Ayeyarwady",
+		"capital_city": "Pathein",
+		"district": "Labutta",
+		"township": "Mawlamyinegyun"
+	},
+	{
+		"region": "Ayeyarwady",
+		"capital_city": "Pathein",
+		"district": "Maubin",
+		"township": "Maubin"
+	},
+	{
+		"region": "Ayeyarwady",
+		"capital_city": "Pathein",
+		"district": "Maubin",
+		"township": "Nyaungdon"
+	},
+	{
+		"region": "Ayeyarwady",
+		"capital_city": "Pathein",
+		"district": "Maubin",
+		"township": "Pantanaw"
+	},
+	{
+		"region": "Ayeyarwady",
+		"capital_city": "Pathein",
+		"district": "Myaungmya",
+		"township": "Myaungmya"
+	},
+	{
+		"region": "Ayeyarwady",
+		"capital_city": "Pathein",
+		"district": "Myaungmya",
+		"township": "Wakema"
+	},
+	{
+		"region": "Ayeyarwady",
+		"capital_city": "Pathein",
+		"district": "Pathein",
+		"township": "Kangyidaunt "
+	},
+	{
+		"region": "Ayeyarwady",
+		"capital_city": "Pathein",
+		"district": "Pathein",
+		"township": "Kyaunggon "
+	},
+	{
+		"region": "Ayeyarwady",
+		"capital_city": "Pathein",
+		"district": "Pathein",
+		"township": "Ahtaung "
+	},
+	{
+		"region": "Ayeyarwady",
+		"capital_city": "Pathein",
+		"district": "Pathein",
+		"township": "Kyonpyaw "
+	},
+	{
+		"region": "Ayeyarwady",
+		"capital_city": "Pathein",
+		"district": "Pathein",
+		"township": "Ngapudaw"
+	},
+	{
+		"region": "Ayeyarwady",
+		"capital_city": "Pathein",
+		"district": "Pathein",
+		"township": "Pathein"
+	},
+	{
+		"region": "Ayeyarwady",
+		"capital_city": "Pathein",
+		"district": "Pathein",
+		"township": "Thabaung"
+	},
+	{
+		"region": "Ayeyarwady",
+		"capital_city": "Pathein",
+		"district": "Pathein",
+		"township": "Yegyi"
+	},
+	{
+		"region": "Ayeyarwady",
+		"capital_city": "Pathein",
+		"district": "Pyapon",
+		"township": "Kyaiklat "
+	},
+	{
+		"region": "Ayeyarwady",
+		"capital_city": "Pathein",
+		"district": "Pyapon",
+		"township": "Pyapon"
+	},
+	{
+		"region": "Rakhine",
+		"capital_city": "Sittwe",
+		"district": "Kayuk Phyu",
+		"township": "Ann"
+	},
+	{
+		"region": "Rakhine",
+		"capital_city": "Sittwe",
+		"district": "Kayuk Phyu",
+		"township": "Kayuk Phyu"
+	},
+	{
+		"region": "Rakhine",
+		"capital_city": "Sittwe",
+		"district": "Kayuk Phyu",
+		"township": "Marn Aung"
+	},
+	{
+		"region": "Rakhine",
+		"capital_city": "Sittwe",
+		"district": "Kayuk Phyu",
+		"township": "Yan Byae"
+	},
+	{
+		"region": "Rakhine",
+		"capital_city": "Sittwe",
+		"district": "Maungtaw",
+		"township": "Butheetaung"
+	},
+	{
+		"region": "Rakhine",
+		"capital_city": "Sittwe",
+		"district": "Maungtaw",
+		"township": "Maungtaw"
+	},
+	{
+		"region": "Rakhine",
+		"capital_city": "Sittwe",
+		"district": "Mrauk-U",
+		"township": "Kyauktaw"
+	},
+	{
+		"region": "Rakhine",
+		"capital_city": "Sittwe",
+		"district": "Mrauk-U",
+		"township": "Minn Pyar"
+	},
+	{
+		"region": "Rakhine",
+		"capital_city": "Sittwe",
+		"district": "Mrauk-U",
+		"township": "Mrauk-U"
+	},
+	{
+		"region": "Rakhine",
+		"capital_city": "Sittwe",
+		"district": "Mrauk-U",
+		"township": "Myay Pon"
+	},
+	{
+		"region": "Rakhine",
+		"capital_city": "Sittwe",
+		"district": "Sittwe",
+		"township": "Pauktaw"
+	},
+	{
+		"region": "Rakhine",
+		"capital_city": "Sittwe",
+		"district": "Sittwe",
+		"township": "Ponnagyun"
+	},
+	{
+		"region": "Rakhine",
+		"capital_city": "Sittwe",
+		"district": "Sittwe",
+		"township": "Rathedaung"
+	},
+	{
+		"region": "Rakhine",
+		"capital_city": "Sittwe",
+		"district": "Sittwe",
+		"township": "Sittwe"
+	},
+	{
+		"region": "Rakhine",
+		"capital_city": "Sittwe",
+		"district": "Thandwe",
+		"township": "Gwa"
+	},
+	{
+		"region": "Rakhine",
+		"capital_city": "Sittwe",
+		"district": "Thandwe",
+		"township": "Thandwe"
+	},
+	{
+		"region": "Rakhine",
+		"capital_city": "Sittwe",
+		"district": "Thandwe",
+		"township": "Taung Kote"
+	},
+	{
+		"region": "Yangon",
+		"capital_city": "Yangon",
+		"district": "Yangon (West)",
+		"township": "Ahlone"
+	},
+	{
+		"region": "Yangon",
+		"capital_city": "Yangon",
+		"district": "Yangon (West)",
+		"township": "Bahan"
+	},
+	{
+		"region": "Yangon",
+		"capital_city": "Yangon",
+		"district": "Yangon (East)",
+		"township": "Botahtaung"
+	},
+	{
+		"region": "Yangon",
+		"capital_city": "Yangon",
+		"district": "Yangon (South)",
+		"township": "Kokoe Kyunn"
+	},
+	{
+		"region": "Yangon",
+		"capital_city": "Yangon",
+		"district": "Yangon (West)",
+		"township": "Dagon"
+	},
+	{
+		"region": "Yangon",
+		"capital_city": "Yangon",
+		"district": "Yangon (East)",
+		"township": "Dagon Myothit (East)"
+	},
+	{
+		"region": "Yangon",
+		"capital_city": "Yangon",
+		"district": "Yangon (East)",
+		"township": "Dagon Myothit (North)"
+	},
+	{
+		"region": "Yangon",
+		"capital_city": "Yangon",
+		"district": "Yangon (East)",
+		"township": "Dagon Myothit (Seikkan)"
+	},
+	{
+		"region": "Yangon",
+		"capital_city": "Yangon",
+		"district": "Yangon (East)",
+		"township": "Dagon Myothit (South)"
+	},
+	{
+		"region": "Yangon",
+		"capital_city": "Yangon",
+		"district": "Yangon (South)",
+		"township": "Dala"
+	},
+	{
+		"region": "Yangon",
+		"capital_city": "Yangon",
+		"district": "Yangon (East)",
+		"township": "Dawbon"
+	},
+	{
+		"region": "Yangon",
+		"capital_city": "Yangon",
+		"district": "Yangon (West)",
+		"township": "Hlaing"
+	},
+	{
+		"region": "Yangon",
+		"capital_city": "Yangon",
+		"district": "Yangon (North)",
+		"township": "Hlaingtharya"
+	},
+	{
+		"region": "Yangon",
+		"capital_city": "Yangon",
+		"district": "Yangon (North)",
+		"township": "Hlegu"
+	},
+	{
+		"region": "Yangon",
+		"capital_city": "Yangon",
+		"district": "Yangon (North)",
+		"township": "Hmawbi"
+	},
+	{
+		"region": "Yangon",
+		"capital_city": "Yangon",
+		"district": "Yangon (North)",
+		"township": "Htantabin"
+	},
+	{
+		"region": "Yangon",
+		"capital_city": "Yangon",
+		"district": "Yangon (North)",
+		"township": "Insein"
+	},
+	{
+		"region": "Yangon",
+		"capital_city": "Yangon",
+		"district": "Yangon (West)",
+		"township": "Kamaryut"
+	},
+	{
+		"region": "Yangon",
+		"capital_city": "Yangon",
+		"district": "Yangon (South)",
+		"township": "Kawhmu"
+	},
+	{
+		"region": "Yangon",
+		"capital_city": "Yangon",
+		"district": "Yangon (South)",
+		"township": "Khayan"
+	},
+	{
+		"region": "Yangon",
+		"capital_city": "Yangon",
+		"district": "Yangon (South)",
+		"township": "Kungyangon"
+	},
+	{
+		"region": "Yangon",
+		"capital_city": "Yangon",
+		"district": "Yangon (South)",
+		"township": "Kyauktada"
+	},
+	{
+		"region": "Yangon",
+		"capital_city": "Yangon",
+		"district": "Yangon (South)",
+		"township": "Kyauktan"
+	},
+	{
+		"region": "Yangon",
+		"capital_city": "Yangon",
+		"district": "Yangon (West)",
+		"township": "Kyeemyindaing"
+	},
+	{
+		"region": "Yangon",
+		"capital_city": "Yangon",
+		"district": "Yangon (West)",
+		"township": "Lanmadaw"
+	},
+	{
+		"region": "Yangon",
+		"capital_city": "Yangon",
+		"district": "Yangon (West)",
+		"township": "Latha"
+	},
+	{
+		"region": "Yangon",
+		"capital_city": "Yangon",
+		"district": "Yangon (West)",
+		"township": "Mayangone"
+	},
+	{
+		"region": "Yangon",
+		"capital_city": "Yangon",
+		"district": "Yangon (North)",
+		"township": "Mingaladon"
+	},
+	{
+		"region": "Yangon",
+		"capital_city": "Yangon",
+		"district": "Yangon (North)",
+		"township": "Mingalartaungnyunt"
+	},
+	{
+		"region": "Yangon",
+		"capital_city": "Yangon",
+		"district": "Yangon (East)",
+		"township": "North Okkalapa"
+	},
+	{
+		"region": "Yangon",
+		"capital_city": "Yangon",
+		"district": "Yangon (West)",
+		"township": "Pabedan"
+	},
+	{
+		"region": "Yangon",
+		"capital_city": "Yangon",
+		"district": "Yangon (East)",
+		"township": "Pazundaung"
+	},
+	{
+		"region": "Yangon",
+		"capital_city": "Yangon",
+		"district": "Yangon (West)",
+		"township": "Sanchaung"
+	},
+	{
+		"region": "Yangon",
+		"capital_city": "Yangon",
+		"district": "Yangon (South)",
+		"township": "Seikgyikanaungto"
+	},
+	{
+		"region": "Yangon",
+		"capital_city": "Yangon",
+		"district": "Yangon (West)",
+		"township": "Seikkan"
+	},
+	{
+		"region": "Yangon",
+		"capital_city": "Yangon",
+		"district": "Yangon (North)",
+		"township": "Shwepyithar"
+	},
+	{
+		"region": "Yangon",
+		"capital_city": "Yangon",
+		"district": "Yangon (East)",
+		"township": "South Okkalapa"
+	},
+	{
+		"region": "Yangon",
+		"capital_city": "Yangon",
+		"district": "Yangon (North)",
+		"township": "Taikkyi"
+	},
+	{
+		"region": "Yangon",
+		"capital_city": "Yangon",
+		"district": "Yangon (East)",
+		"township": "Tamwe"
+	},
+	{
+		"region": "Yangon",
+		"capital_city": "Yangon",
+		"district": "Yangon (East)",
+		"township": "Thaketa"
+	},
+	{
+		"region": "Yangon",
+		"capital_city": "Yangon",
+		"district": "Yangon (South)",
+		"township": "Thanlyin"
+	},
+	{
+		"region": "Yangon",
+		"capital_city": "Yangon",
+		"district": "Yangon (East)",
+		"township": "Thingangyun"
+	},
+	{
+		"region": "Yangon",
+		"capital_city": "Yangon",
+		"district": "Yangon (South)",
+		"township": "Thongwa"
+	},
+	{
+		"region": "Yangon",
+		"capital_city": "Yangon",
+		"district": "Yangon (South)",
+		"township": "Twantay"
+	},
+	{
+		"region": "Yangon",
+		"capital_city": "Yangon",
+		"district": "Yangon (East)",
+		"township": "Yankin"
+	},
+	{
+		"region": "Shan",
+		"capital_city": "Taunggyi",
+		"district": "Kyaington",
+		"township": "Kyaington"
+	},
+	{
+		"region": "Shan",
+		"capital_city": "Taunggyi",
+		"district": "Kyaington",
+		"township": "Mong Khat"
+	},
+	{
+		"region": "Shan",
+		"capital_city": "Taunggyi",
+		"district": "Kyaington",
+		"township": "Mong Lar"
+	},
+	{
+		"region": "Shan",
+		"capital_city": "Taunggyi",
+		"district": "Kyaington",
+		"township": "Mong Pyinn"
+	},
+	{
+		"region": "Shan",
+		"capital_city": "Taunggyi",
+		"district": "Kyaington",
+		"township": "Mong Yang"
+	},
+	{
+		"region": "Shan",
+		"capital_city": "Taunggyi",
+		"district": "Mong Pawk (Wa SAD)",
+		"township": "Ho Tawng (Ho Tao)"
+	},
+	{
+		"region": "Shan",
+		"capital_city": "Taunggyi",
+		"district": "Mong Pawk (Wa SAD)",
+		"township": "Mong Hpen"
+	},
+	{
+		"region": "Shan",
+		"capital_city": "Taunggyi",
+		"district": "Mong Pawk (Wa SAD)",
+		"township": "Mong Kar"
+	},
+	{
+		"region": "Shan",
+		"capital_city": "Taunggyi",
+		"district": "Mong Pawk (Wa SAD)",
+		"township": "Mong Pawk"
+	},
+	{
+		"region": "Shan",
+		"capital_city": "Taunggyi",
+		"district": "Mong Pawk (Wa SAD)",
+		"township": "Nam Hpai"
+	},
+	{
+		"region": "Shan",
+		"capital_city": "Taunggyi",
+		"district": "Mongh Set",
+		"township": "Mongh Set"
+	},
+	{
+		"region": "Shan",
+		"capital_city": "Taunggyi",
+		"district": "Mongh Set",
+		"township": "Mongton"
+	},
+	{
+		"region": "Shan",
+		"capital_city": "Taunggyi",
+		"district": "Tarchileik",
+		"township": "Mongh Pyak"
+	},
+	{
+		"region": "Shan",
+		"capital_city": "Taunggyi",
+		"district": "Tarchileik",
+		"township": "Mong Yawng"
+	},
+	{
+		"region": "Shan",
+		"capital_city": "Taunggyi",
+		"district": "Tarchileik",
+		"township": "Tarchileik"
+	},
+	{
+		"region": "Shan",
+		"capital_city": "Taunggyi",
+		"district": "Hopang",
+		"township": "Mongmao"
+	},
+	{
+		"region": "Shan",
+		"capital_city": "Taunggyi",
+		"district": "Hopang",
+		"township": "Pangwaun"
+	},
+	{
+		"region": "Shan",
+		"capital_city": "Taunggyi",
+		"district": "Kyaukme",
+		"township": "Namhsan"
+	},
+	{
+		"region": "Shan",
+		"capital_city": "Taunggyi",
+		"district": "Kyaukme",
+		"township": "Namtu"
+	},
+	{
+		"region": "Shan",
+		"capital_city": "Taunggyi",
+		"district": "Kyaukme",
+		"township": "Naung Cho"
+	},
+	{
+		"region": "Shan",
+		"capital_city": "Taunggyi",
+		"district": "Lashio",
+		"township": "Tangyan"
+	},
+	{
+		"region": "Shan",
+		"capital_city": "Taunggyi",
+		"district": "Laukkaing",
+		"township": "Konkyan"
+	},
+	{
+		"region": "Shan",
+		"capital_city": "Taunggyi",
+		"district": "Laukkaing",
+		"township": "Laukkaing"
+	},
+	{
+		"region": "Shan",
+		"capital_city": "Taunggyi",
+		"district": "Matman",
+		"township": "Matman"
+	},
+	{
+		"region": "Shan",
+		"capital_city": "Taunggyi",
+		"district": "Matman",
+		"township": "Narphan"
+	},
+	{
+		"region": "Shan",
+		"capital_city": "Taunggyi",
+		"district": "Matman",
+		"township": "Pangsang"
+	},
+	{
+		"region": "Shan",
+		"capital_city": "Taunggyi",
+		"district": "Mong Maw (Wa SAD)",
+		"township": "Aik Chan (Ai' Chun)"
+	},
+	{
+		"region": "Shan",
+		"capital_city": "Taunggyi",
+		"district": "Mong Maw (Wa SAD)",
+		"township": "Hkun Mar (Hkwin Ma)"
+	},
+	{
+		"region": "Shan",
+		"capital_city": "Taunggyi",
+		"district": "Mong Maw (Wa SAD)",
+		"township": "Hsawng Hpa (Saun Pha)"
+	},
+	{
+		"region": "Shan",
+		"capital_city": "Taunggyi",
+		"district": "Mong Maw (Wa SAD)",
+		"township": "Ka Lawng Hpar"
+	},
+	{
+		"region": "Shan",
+		"capital_city": "Taunggyi",
+		"district": "Mong Maw (Wa SAD)",
+		"township": "Kawng Min Hsang"
+	},
+	{
+		"region": "Shan",
+		"capital_city": "Taunggyi",
+		"district": "Mong Maw (Wa SAD)",
+		"township": "Lin Haw"
+	},
+	{
+		"region": "Shan",
+		"capital_city": "Taunggyi",
+		"district": "Mong Maw (Wa SAD)",
+		"township": "Long Htan"
+	},
+	{
+		"region": "Shan",
+		"capital_city": "Taunggyi",
+		"district": "Mong Maw (Wa SAD)",
+		"township": "Man Tun"
+	},
+	{
+		"region": "Shan",
+		"capital_city": "Taunggyi",
+		"district": "Mong Maw (Wa SAD)",
+		"township": "Nam Tit"
+	},
+	{
+		"region": "Shan",
+		"capital_city": "Taunggyi",
+		"district": "Mong Maw (Wa SAD)",
+		"township": "Nar Wee (Na Wi)"
+	},
+	{
+		"region": "Shan",
+		"capital_city": "Taunggyi",
+		"district": "Mong Maw (Wa SAD)",
+		"township": "Yawng Lin"
+	},
+	{
+		"region": "Shan",
+		"capital_city": "Taunggyi",
+		"district": "Mong Maw (Wa SAD)",
+		"township": "Yin Pang"
+	},
+	{
+		"region": "Shan",
+		"capital_city": "Taunggyi",
+		"district": "Mongmit",
+		"township": "Ma Baine"
+	},
+	{
+		"region": "Shan",
+		"capital_city": "Taunggyi",
+		"district": "Mongmit",
+		"township": "Mongmit"
+	},
+	{
+		"region": "Shan",
+		"capital_city": "Taunggyi",
+		"district": "Muse",
+		"township": "Kutkai"
+	},
+	{
+		"region": "Shan",
+		"capital_city": "Taunggyi",
+		"district": "Muse",
+		"township": "Muse"
+	},
+	{
+		"region": "Shan",
+		"capital_city": "Taunggyi",
+		"district": "Muse",
+		"township": "Namhkan"
+	},
+	{
+		"region": "Shan",
+		"capital_city": "Taunggyi",
+		"district": "Wein Kawng (Wein Kao) (Wa SAD)",
+		"township": "Man Man Hseng"
+	},
+	{
+		"region": "Shan",
+		"capital_city": "Taunggyi",
+		"district": "Wein Kawng (Wein Kao) (Wa SAD)",
+		"township": "Nam Hkam Wu"
+	},
+	{
+		"region": "Shan",
+		"capital_city": "Taunggyi",
+		"district": "Wein Kawng (Wein Kao) (Wa SAD)",
+		"township": "Nar Kawng"
+	},
+	{
+		"region": "Shan",
+		"capital_city": "Taunggyi",
+		"district": "Wein Kawng (Wein Kao) (Wa SAD)",
+		"township": "Nawng Hkit"
+	},
+	{
+		"region": "Shan",
+		"capital_city": "Taunggyi",
+		"district": "Wein Kawng (Wein Kao) (Wa SAD)",
+		"township": "Pang Hkam"
+	},
+	{
+		"region": "Shan",
+		"capital_city": "Taunggyi",
+		"district": "Wein Kawng (Wein Kao) (Wa SAD)",
+		"township": "Pang Yang"
+	},
+	{
+		"region": "Shan",
+		"capital_city": "Taunggyi",
+		"district": "Langkhay",
+		"township": "Langkhay"
+	},
+	{
+		"region": "Shan",
+		"capital_city": "Taunggyi",
+		"district": "Langkhay",
+		"township": "Mawkmai"
+	},
+	{
+		"region": "Shan",
+		"capital_city": "Taunggyi",
+		"district": "Langkhay",
+		"township": "Mongnai"
+	},
+	{
+		"region": "Shan",
+		"capital_city": "Taunggyi",
+		"district": "Langkhay",
+		"township": "Mongpan"
+	},
+	{
+		"region": "Shan",
+		"capital_city": "Taunggyi",
+		"district": "Loilen",
+		"township": "Kunhing"
+	},
+	{
+		"region": "Shan",
+		"capital_city": "Taunggyi",
+		"district": "Loilen",
+		"township": "Kyethi"
+	},
+	{
+		"region": "Shan",
+		"capital_city": "Taunggyi",
+		"district": "Loilen",
+		"township": "Laecharr"
+	},
+	{
+		"region": "Shan",
+		"capital_city": "Taunggyi",
+		"district": "Loilen",
+		"township": "Loilen"
+	},
+	{
+		"region": "Shan",
+		"capital_city": "Taunggyi",
+		"district": "Loilen",
+		"township": "Monghsu"
+	},
+	{
+		"region": "Shan",
+		"capital_city": "Taunggyi",
+		"district": "Loilen",
+		"township": "Mongkaing"
+	},
+	{
+		"region": "Shan",
+		"capital_city": "Taunggyi",
+		"district": "Loilen",
+		"township": "Nansang"
+	},
+	{
+		"region": "Shan",
+		"capital_city": "Taunggyi",
+		"district": "Taunggyi",
+		"township": "Hopong"
+	},
+	{
+		"region": "Shan",
+		"capital_city": "Taunggyi",
+		"district": "Taunggyi",
+		"township": "Hsihseng"
+	},
+	{
+		"region": "Shan",
+		"capital_city": "Taunggyi",
+		"district": "Taunggyi",
+		"township": "Kalaw"
+	},
+	{
+		"region": "Shan",
+		"capital_city": "Taunggyi",
+		"district": "Taunggyi",
+		"township": "Lawksawk"
+	},
+	{
+		"region": "Shan",
+		"capital_city": "Taunggyi",
+		"district": "Taunggyi",
+		"township": "Nyaung Shwe"
+	},
+	{
+		"region": "Shan",
+		"capital_city": "Taunggyi",
+		"district": "Taunggyi",
+		"township": "Phal Khone"
+	},
+	{
+		"region": "Shan",
+		"capital_city": "Taunggyi",
+		"district": "Taunggyi",
+		"township": "Pinntaya"
+	},
+	{
+		"region": "Shan",
+		"capital_city": "Taunggyi",
+		"district": "Taunggyi",
+		"township": "Pinlaung"
+	},
+	{
+		"region": "Shan",
+		"capital_city": "Taunggyi",
+		"district": "Taunggyi",
+		"township": "Taunggyi"
+	},
+	{
+		"region": "Shan",
+		"capital_city": "Taunggyi",
+		"district": "Taunggyi",
+		"township": "Ywar Ngan"
+	},
+	{
+		"region": "Taninthayi",
+		"capital_city": "Dawei",
+		"district": "Kawthoung",
+		"township": "Bokpyin"
+	},
+	{
+		"region": "Taninthayi",
+		"capital_city": "Dawei",
+		"district": "Dawei",
+		"township": "Dawei"
+	},
+	{
+		"region": "Taninthayi",
+		"capital_city": "Dawei",
+		"district": "Kawthoung",
+		"township": "Kawthoung"
+	},
+	{
+		"region": "Taninthayi",
+		"capital_city": "Dawei",
+		"district": "Myeik",
+		"township": "Kyunsu"
+	},
+	{
+		"region": "Taninthayi",
+		"capital_city": "Dawei",
+		"district": "Dawei",
+		"township": "Launglon"
+	},
+	{
+		"region": "Taninthayi",
+		"capital_city": "Dawei",
+		"district": "Myeik",
+		"township": "Myeik"
+	},
+	{
+		"region": "Taninthayi",
+		"capital_city": "Dawei",
+		"district": "Myeik",
+		"township": "Palaw"
+	},
+	{
+		"region": "Taninthayi",
+		"capital_city": "Dawei",
+		"district": "Myeik",
+		"township": "Tanintharyi"
+	},
+	{
+		"region": "Taninthayi",
+		"capital_city": "Dawei",
+		"district": "Dawei",
+		"township": "Thayetchaung"
+	},
+	{
+		"region": "Taninthayi",
+		"capital_city": "Dawei",
+		"district": "Dawei",
+		"township": "Yebyu"
+	}
+]
